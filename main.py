@@ -219,7 +219,7 @@ def run():
             
         
 
-            with st.chat_message("agent",avatar="/Users/erinhsu/Documents/GitHub/Pilot-FIA-Taiwan/fia_image.png"):
+            with st.chat_message("agent",avatar="fia_image.png"):
                 st.markdown(answer.strip())
                 st.markdown(f"來源:\n{sources_string}")
                 if "經濟成長率" in query:
