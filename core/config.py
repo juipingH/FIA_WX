@@ -17,7 +17,7 @@ else:
 
 db_filename = "FIA_index"
 filemap_name = "filemap.pickle"
-main_table = "/Users/erinhsu/Documents/GitHub/Pilot-FIA-Taiwan/tax_revenue_zh_2.csv"
+main_table = "tax_revenue_zh_2.csv"
 embedding_model = "paraphrase-multilingual-MiniLM-L12-v2"
 
 #for table_generator file
