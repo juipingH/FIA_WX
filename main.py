@@ -75,7 +75,7 @@ st.markdown(hide_streamlit_style, unsafe_allow_html=True)
 # st.header("FIA Watsonx Demo")
 col1, mid, col2 = st.columns([1,1,20])
 with col1:
-    st.image('/Users/erinhsu/Documents/GitHub/Pilot-FIA-Taiwan/fia_image.png', width=60)
+    st.image('fia_image.png', width=60)
 with col2:
     st.header("FIA Watsonx Demo")
         
